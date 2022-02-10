@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Ferrari Pininfarina Sergio",
+        "price":"3.3",
+        "img":"https://images.unsplash.com/photo-1514316703755-dca7d7d9d882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "This list wouldn’t be complete without some version of the mighty Bugatti Veyron. We’re shining our spotlight on the the Mansory Vivere edition here, because not only is it one of the fastest cars in the world, it’s one of the most expensive"
+    },
+    {
+        "id":2,
+        "name":"Aston Martin valkyrie",
+        "price":"3.1",
+        "img":"https://images.unsplash.com/photo-1469285994282-454ceb49e63c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "description": "The supercar is mechanically identical to the F12, but the Berlinetta isnt exactly a Fiat Panda to begin with. Its 6.2-liter V12 churns out 740 glorious hp, enough to propel the car to 60 mph in only 3.1 seconds. The ultra-rare flag-waver hearkens back to Ferraris bespoke past."
+    },
+    {
+        "id":3,
+        "name":"Limited Edition",
+        "price":"2.9",
+        "img":"https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+        "description": "The Huayra is equally as famous for its odd-sounding name as it is for its face-melting performance. Named after the Incan God of Winds, the Huayra (pronounced why-rah) boasts an AMG-sourced 6.0-liter V12 with two turbochargers, resulting in 620 hp and and a massive 740 lb-ft."
+    },
+    {
+        "id":4,
+        "name":"Lykan Hypersport",
+        "price":"3.9",
+        "img":"https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Under the vented hood lurks a naturally aspirated V12 that displaces 7.3 liters, which is a lot. It produces 750 hp and 553 lb-ft, which is also a lot. Those numbers make the One-77 the fastest Aston Martin ever made, as this spy chaser will top 220 mph in the right conditions. From a stop"
+    },
+    {
+        "id":5,
+        "name":"McLaren P1 LM",
+        "price":"2.4",
+        "img":"https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Few cars on the road are more striking, and even fewer accelerate faster. With a dry weight of less than 2,800 pounds, this dragon-like performance car accelerates from 0 to 60 mph in less than 3.0 seconds, and it’ll prance to 124 mph in under 7."
+    },
+    {
+        "id":6,
+        "name":"Lamborghini ",
+        "price":"4.6",
+        "img":"https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Kicking off our list is less of a car and more of an unchained animal in the ST1. Assembled in Zealand, Denmark, the Zenvo creates an absolutely obscene amount of power by combining a 6.8-liter V8 with both a supercharger and a turbocharger. "
+    }
+]
