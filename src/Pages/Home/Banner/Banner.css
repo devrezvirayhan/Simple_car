@@ -1,0 +1,17 @@
+.banner_bg{
+    background-image: url(../../../Img/Img/banner_bg.jpg);
+    height: 85vh;
+    background-size: cover;
+    position: relative;
+    animation: animate 10s linear infinite;
+    
+}
+
+@keyframes animate {
+    0%,100%{
+        background-position: top;
+    }
+    45%,55%{
+        background-position: bottom;
+    }
+}

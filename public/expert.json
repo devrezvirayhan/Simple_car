@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Alex",
+        "img":"https://images.unsplash.com/photo-1581091873137-690aaa3620a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "This engine was recently introduced in the all-new The engine is the most powerful among the SUV segment at present. "
+    },
+    {
+        "id":2,
+        "name":"Jhon",
+        "img":"https://images.unsplash.com/photo-1581092916357-5896ebc48073?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Most of the robust SUVs have come from this brand. And the most powerful engines too. This turbo-petrol unit which powers the safest car of India."
+    },
+    {
+        "id":3,
+        "name":"Jill",
+        "img":"https://images.unsplash.com/photo-1581091226205-b28ac533a45f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "he diesel engine is the best-in-segment too. It produces 114hp of power and a massive torque of 300Nm. For a compact SUV.!"
+    },
+    {
+        "id":4,
+        "name":"Jasi",
+        "img":"https://images.unsplash.com/photo-1581087725018-45eb42ace6eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "This Indian automobile manufacturer can be awarded the all-rounder award for focusing on every aspect in a car, be it the safety or the design or the performance."
+    },
+    {
+        "id":5,
+        "name":"Smith",
+        "img":"https://images.unsplash.com/photo-1581090466619-e945d2e2980e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Then why is this on the list. Well, the 1.5-litre i-VTEC engine from Honda produces almost 118hp with 145Nm of torque. Being naturally aspirated."
+    },
+    {
+        "id":6,
+        "name":"Absa",
+        "img":"https://images.unsplash.com/photo-1581090465237-2215893ba918?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "He is one of the new entrants that took the market by storm. Kia’s first offering, the Seltos, has been selling like a hot cake. The 1.4-litre turbo GDi can produce."
+    }
+]
