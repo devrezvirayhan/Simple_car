@@ -11,9 +11,9 @@ const Experts = () => {
             .then(data => setExperts(data))
     }, [])
     return (
-        <div>
+        <div id='experts'>
             <div className='container'>
-                <h2 className='text-primary'>Our Experts</h2>
+                <h2 className='text-success p-2 '>Our Experts</h2>
                 <div className='row'>
                     {
                         experts.map(expert => <Expert
